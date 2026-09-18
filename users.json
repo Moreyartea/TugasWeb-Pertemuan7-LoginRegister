@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nama": "Fatih Taqiyyuddin",
+        "email": "fatehh@example.gmail.com",
+        "password": "$2y$10$21gho0pRvwWbrHOlXDycnuuotzTCgU0od5p2y6cVZ4oSPxUk1qdE.",
+        "remember_token_hash": null,
+        "created_at": "2026-09-18 08:50:58"
+    },
+    {
+        "id": 2,
+        "nama": "emial",
+        "email": "example@gmail.com",
+        "password": "$2y$10$262Ri8.QWSaBwK96l.yGJ.A.mniLK9Eu7iMN9Pjz3euosQEvV2bmm",
+        "remember_token_hash": null,
+        "created_at": "2026-09-18 09:19:15"
+    }
+]
